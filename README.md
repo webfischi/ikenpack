@@ -1,10 +1,10 @@
 # ikenpack
 A tool to extract and repackage ikenfells img files
 
-Developed by Yannik Höflich https://www.fiverr.com/yannikhoeflich?source=order_page_summary_seller_link
-Uses code by Chevy Ray (The Ikenfell developer)
-Uses code by davidtwilcox for the spritesheet https://github.com/davidtwilcox/SheetYourself
-Instructed and payed by webfischi
+- Developed by Yannik Höflich https://www.fiverr.com/yannikhoeflich?source=order_page_summary_seller_link
+- Uses code by Chevy Ray (The Ikenfell developer)
+- Uses code by davidtwilcox for the spritesheet https://github.com/davidtwilcox/SheetYourself
+- Instructed and payed by webfischi
 
 This tool is created with Visual Studio 2022
 
