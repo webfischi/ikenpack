@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vyQwJJTWEl4KEji77pf8UtqcFKdoviw1BdtTMzeKu4nXtBLUX3WLqwc4Wm8jV5dpUn/NaUE1VLMzDxqndSIgPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yannik\\source\\repos\\ikenpack\\ikenpack\\ikenpack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yannik\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yannik\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

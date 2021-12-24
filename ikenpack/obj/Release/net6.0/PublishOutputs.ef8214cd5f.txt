@@ -1,0 +1,12 @@
+C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Release\net6.0\publish\atlas.bin
+C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Release\net6.0\publish\atlas.img
+C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Release\net6.0\publish\ikenpack.exe
+C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Release\net6.0\publish\ikenpack.dll
+C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Release\net6.0\publish\ikenpack.deps.json
+C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Release\net6.0\publish\ikenpack.runtimeconfig.json
+C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Release\net6.0\publish\ikenpack.pdb
+C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Release\net6.0\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Release\net6.0\publish\System.Drawing.Common.dll
+C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Release\net6.0\publish\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Release\net6.0\publish\runtimes\win\lib\net6.0\System.Drawing.Common.dll

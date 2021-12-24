@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pSbwjwewOUX3jMR7XOADzfE4Ji0ijQxSKXRZAusx7WJn623chekZup0aTOnq7d1u4a/xuhAqPocMQFE8rM2ygg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yannik\\source\\repos\\ikenpack\\ikenpack\\ikenpack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yannik\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yannik\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yannik\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.1\\microsoft.netcore.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\Yannik\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\Yannik\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.1\\microsoft.aspnetcore.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\Yannik\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.1\\microsoft.netcore.app.crossgen2.win-x64.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

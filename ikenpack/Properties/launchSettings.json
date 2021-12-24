@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ikenpack": {
+      "commandName": "Project",
+      "commandLineArgs": "-a atlas.img atlas.bin test"
+    }
+  }
+}

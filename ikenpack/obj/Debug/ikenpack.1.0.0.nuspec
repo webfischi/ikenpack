@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ikenpack</id>
+    <version>1.0.0</version>
+    <authors>ikenpack</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="System.Drawing.Common" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Debug\net6.0\ikenpack.runtimeconfig.json" target="lib\net6.0\ikenpack.runtimeconfig.json" />
+    <file src="C:\Users\Yannik\source\repos\ikenpack\ikenpack\bin\Debug\net6.0\ikenpack.dll" target="lib\net6.0\ikenpack.dll" />
+  </files>
+</package>
